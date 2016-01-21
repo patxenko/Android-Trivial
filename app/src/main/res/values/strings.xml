@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DSCR 14</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_registro">Registro</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_inicio">Inicio</string>
+    <string name="title_activity_partidas_creadas">PartidasCreadas</string>
+    <string name="title_activity_partidas_availables">PartidasAvailables</string>
+    <string name="title_activity_partidas_playing">PartidasPlaying</string>
+    <string name="title_activity_jugar">Jugar</string>
+    <string name="title_activity_info_game">InfoGame</string>
+    <string name="title_activity_join">Join</string>
+    <string name="title_activity_mueve_responde">MueveResponde</string>
+    <string name="title_activity_jugar_tablero">JugarTablero</string>
+    <string name="title_activity_lienzo">Lienzo</string>
+</resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/lopez/Escritorio/Android/proyecto/DSCR14/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/home/lopez/Escritorio/Android/proyecto/DSCR14/app/build/intermediates/pre-dexed/debug/classes-50e0ebfa9686a3458ab3f6a4b5dee7d1d14feabf.jar" />
+    </item>
+    <item
+        jar="/home/lopez/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.6.3/142ce64dcd709a4b5f6e7d71305a31d3893d077/jackson-core-2.6.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0142ce64dcd709a4b5f6e7d71305a31d3893d077">
+        <dex dex="/home/lopez/Escritorio/Android/proyecto/DSCR14/app/build/intermediates/pre-dexed/debug/jackson-core-2.6.3-498cebea66ca5cc6fffb0b9bf357a0654d64dd2b.jar" />
+    </item>
+    <item
+        jar="/home/lopez/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.6.3/5c4fcae53dd82e2c549b8322d78c6ff47c94c8a8/jackson-databind-2.6.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c4fcae53dd82e2c549b8322d78c6ff47c94c8a8">
+        <dex dex="/home/lopez/Escritorio/Android/proyecto/DSCR14/app/build/intermediates/pre-dexed/debug/jackson-databind-2.6.3-0d975f24274ccb29c282b60cdff09f217f86dccc.jar" />
+    </item>
+    <item
+        jar="/home/lopez/Escritorio/Android/proyecto/DSCR14/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/home/lopez/Escritorio/Android/proyecto/DSCR14/app/build/intermediates/pre-dexed/debug/classes-3b9e4d0937301c03285e11c4bc9dc535250aa03f.jar" />
+    </item>
+    <item
+        jar="/home/lopez/Escritorio/Android/proyecto/DSCR14/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/home/lopez/Escritorio/Android/proyecto/DSCR14/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-6bc1430b7c7bdbf7b93c718d5b8e5fba8f1e1ec9.jar" />
+    </item>
+    <item
+        jar="/home/lopez/Escritorio/Android/proyecto/DSCR14/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/home/lopez/Escritorio/Android/proyecto/DSCR14/app/build/intermediates/pre-dexed/debug/classes-a062c0275ae73217309d59e63cd27dfd797ca34b.jar" />
+    </item>
+    <item
+        jar="/home/lopez/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.6.0/a0990e2e812ac6639b6ce955c91b13228500476e/jackson-annotations-2.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a0990e2e812ac6639b6ce955c91b13228500476e">
+        <dex dex="/home/lopez/Escritorio/Android/proyecto/DSCR14/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.6.0-20d031173924186c65a857df73644f45eb8b8c44.jar" />
+    </item>
+    <item
+        jar="/home/lopez/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/home/lopez/Escritorio/Android/proyecto/DSCR14/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-ee0e318c112f34169086dfe938c3b027bdf619fe.jar" />
+    </item>
+    <item
+        jar="/home/lopez/Escritorio/Android/proyecto/DSCR14/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/home/lopez/Escritorio/Android/proyecto/DSCR14/app/build/intermediates/pre-dexed/debug/classes-14d6b493cd8c7786e625d4f76debf2e2c11845cd.jar" />
+    </item>
+    <item
+        jar="/home/lopez/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/home/lopez/Escritorio/Android/proyecto/DSCR14/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9-065798f205a01e4857025f62368d2df513f594d4.jar" />
+    </item>
+    <item
+        jar="/home/lopez/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/home/lopez/Escritorio/Android/proyecto/DSCR14/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6-dbc734fe7703c646e8cf15a9eb500cebf1b5d347.jar" />
+    </item>
+
+</items>
